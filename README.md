@@ -36,6 +36,10 @@ To start the dashboard:
      hit localhost:5000
 
 
+![ScreenShot](https://raw.github.com/neha01mittal/ai-heallthcare-quarantine/blob/master/phonetext.jpeg)
+![ScreenShot](https://raw.github.com/neha01mittal/ai-heallthcare-quarantine/blob/master/Screenshot%202019-03-31%20at%2019.29.55.png)
+
+
 To start the python service:
 
      python run.py (This script contains the code to train the model and make predictions on the test data)
